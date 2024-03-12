@@ -7,7 +7,8 @@ This repository serves as a dedicated space for honing React skills and practici
 1. Projects: Explore a collection of small React projects showcasing diverse functionalities and applications.
 2. Exercises: Engage in hands-on exercises designed to reinforce specific React concepts and techniques.
 3. Examples: Find illustrative examples demonstrating React best practices and effective coding patterns.
-How to Use
+   
+## How to Use
 Feel free to navigate through the projects, exercises, and examples provided in the repository. Each section is organized to offer a progressive learning experience. Clone the repository to your local machine and use it as a playground to experiment, learn, and enhance your React development skills.
 
 ## Contribution
